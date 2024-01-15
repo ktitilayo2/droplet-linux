@@ -1,4 +1,4 @@
-do_token       = "dop_v1_23a83ae5c4d39cf92fe0b551d9c960ec160c72f12c24073b05e2936e231fc767"
+do_token       = "insert digital ocean token here"
 droplet_name   = "jenkins-server"
 droplet_region = "nyc1"
 droplet_size   = "s-2vcpu-4gb"
